@@ -14,3 +14,4 @@ Calculadora simples criada como aplicativo tipo console.
 ## 🚀 Tecnologias utilizadas
 
 - C#
+- .NET 6
